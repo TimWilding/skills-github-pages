@@ -1,6 +1,6 @@
 ---
 layout: myspace
-title: Welcome to Myspace Revival
+title: Myspace Revival
 ---
 
 # Hi, I'm Tim Wilding👋
