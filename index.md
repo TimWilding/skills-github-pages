@@ -10,8 +10,8 @@ My hobbies include debugging code, summarising data, and pretending Myspace neve
 
 ## Top 5 Friends
 - 🐶 Snowy  
-- 🎭 Virgil  
-- 📚 GitHub  
+- 🎭 [Virgil ](https://www.sister-mag.com/en/magazine/sistermag-no-46-march-2019/the-nine-circles-of-hell/) 
+- 📚 [GitHub ](https://github.com/TimWilding/) 
 - 🎶 Spotify  
 - 🦾 ChatGPT
 
