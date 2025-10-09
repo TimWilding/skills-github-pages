@@ -5,17 +5,14 @@ title: Welcome to Myspace Revival
 
 # Hi, I'm Tim Wilding👋
 
-Python whisperer 🐍 by day, Tintin adventurer by night 🕵️‍♂️.  
-y hobbies include debugging code, dodging existential dread, and pretending Myspace never died.
+Python developer 🐍 by day, Tintin adventurer by night 🕵️‍♂️.  
+y hobbies include debugging code, summarising data, and pretending Myspace never died.
 
-## Top 8 Friends
-- 🧠 Copilot  
+## Top 5 Friends
 - 🐶 Snowy  
 - 🎭 Virgil  
-- 💻 Stack Overflow  
 - 📚 GitHub  
 - 🎶 Spotify  
-- 🧙‍♂️ Gandalf  
 - 🦾 ChatGPT
 
 ## Coding Jams 🎶
