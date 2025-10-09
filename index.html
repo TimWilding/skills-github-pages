@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Welcome to <span class="name">{{ page.title | remove: "Welcome to " }}</span>'s Myspace</h1>
+    </header>
+
+    <section class="profile-pic">
+      <img src="/images/tintinimage.png" alt="Your profile pic">
+    </section>
+
+    <section class="bio">
+      {{ content }}
+    </section>
+  </div>
+</body>
+</html>
