@@ -2,3 +2,4 @@ theme: minima
 title: "Myspace Revival"
 author: Tim Wilding 
 description: A nostalgic throwback
+baseurl: "/skills-github-pages"
